@@ -1,2 +1,4 @@
 hello world from a git controlled text file
 stop
+newline from branch1
+
